@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.13.0](https://github.com/CodeWithCJ/SparkyFitness/compare/v1.12.1...v1.13.0) (2026-11-12)
+
+
+### Features
+
+* **zepp:** add Zepp OAuth callback Worker at zepp-auth.sparkyfitness.com ([#3530](https://github.com/CodeWithCJ/SparkyFitness/issues/3530)) ([59a812e](https://github.com/CodeWithCJ/SparkyFitness/commit/59a812e5d7c091bbb97f18c859ca1e51d82df679))
+
+
+### Bug Fixes
+
+* **chat:** follow the Profile Switcher into a family member's account ([#3493](https://github.com/CodeWithCJ/SparkyFitness/issues/3493)) ([5482810](https://github.com/CodeWithCJ/SparkyFitness/commit/548281071930fb0c6cc28dd71d5423ad532b1d96))
+* **mobile:** give cardio in a live workout a start time ([#3525](https://github.com/CodeWithCJ/SparkyFitness/issues/3525)) ([588168f](https://github.com/CodeWithCJ/SparkyFitness/commit/588168f0c301c3e7636b9f4def802b7812ae31bc))
+* **mobile:** handle medication reminder buttons natively on iOS ([#3498](https://github.com/CodeWithCJ/SparkyFitness/issues/3498)) ([5dd5d56](https://github.com/CodeWithCJ/SparkyFitness/commit/5dd5d567270d2616fec53ff5bf8816a7fc127a08))
+* **mobile:** keep meditation timer running while the screen is off ([#3523](https://github.com/CodeWithCJ/SparkyFitness/issues/3523)) ([04bac30](https://github.com/CodeWithCJ/SparkyFitness/commit/04bac304e3c0b16e53af35b5bf85ed8f58f29d91))
+* **mobile:** make the release workflow's submit jobs work on the free plan ([#3520](https://github.com/CodeWithCJ/SparkyFitness/issues/3520)) ([60cf9d2](https://github.com/CodeWithCJ/SparkyFitness/commit/60cf9d2355d7e9737d32044eb9a4ec925cfe2318))
+* **mobile:** use configured work duration for interval/HIIT timer ([#3519](https://github.com/CodeWithCJ/SparkyFitness/issues/3519)) ([30530aa](https://github.com/CodeWithCJ/SparkyFitness/commit/30530aa93a395a89dbc86f6c124e29b462dcbe27))
+* **reports:** export body measurements in the user's units ([#3509](https://github.com/CodeWithCJ/SparkyFitness/issues/3509)) ([903b823](https://github.com/CodeWithCJ/SparkyFitness/commit/903b8236a53273261c1cd2c1d9ba8c3411eb9739))
+* stabilize adaptive calorie estimates around weight shifts ([#3486](https://github.com/CodeWithCJ/SparkyFitness/issues/3486)) ([8f153ca](https://github.com/CodeWithCJ/SparkyFitness/commit/8f153ca3dd4f4841e5dec72ae7e9aea212b3518e))
+
 ## [1.12.1](https://github.com/CodeWithCJ/SparkyFitness/compare/v1.12.0...v1.12.1) (2026-11-10)
 
 
